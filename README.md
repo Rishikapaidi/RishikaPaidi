@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rishika 👋
 
-<!--
-**Rishikapaidi/RishikaPaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Computer Science student at **CSUDH** (graduating Dec 2026), building full-stack and backend applications.
 
-Here are some ideas to get you started:
+**Tech:** Python · Django · REST APIs · PostgreSQL · React.js · TypeScript · JavaScript · scikit-learn · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Multi-Tenant Timesheet Platform](LINK)** – Django + PostgreSQL SaaS with 10+ REST APIs, JWT auth & role-based access
+- **[Services Platform Dashboard](https://github.com/Rishikapaidi/Serveeasedashboard.git)** – Responsive React + TypeScript dashboard with reusable components
+- **[MOOD TUNE](LINK)** – Multimodal emotion detection (face + text) for mood-aware music recommendations
+- **[Child Mortality Prediction](LINK)** – ML models reaching 95% accuracy on healthcare data
+- **[Cervical Cancer Detection](LINK)** – Random Forest/SVM model with 94% accuracy, 91% recall
+
+📫 [LinkedIn](https://www.linkedin.com/in/rishika-paidi/) · rishikareddypaidi01@gmail.com
